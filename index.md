@@ -1,4 +1,4 @@
-# 金融衍生品
+## 金融衍生品
 - 课程大纲
 
 
@@ -11,6 +11,6 @@
 - 电子课件
 
 
-- < font face ="楷体" size = 1 color = black > Support or Contact
+- Support or Contact
 
 Having trouble with this course? Feel free to contact ×××××× and they might be able to help you sort it out.
