@@ -1,10 +1,8 @@
-## 教育经历
+# 金融衍生品
+## 课程简介
 
-2015.9-至今：南开大学金融学院 教授
-2002.6-2015.9 南开大学经济学院 教授
-1992-2012.6 天津大学数学系 讲师、副教授
 
-## 教学团队
+## 课程大纲
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
